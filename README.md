@@ -38,4 +38,4 @@ In addition to the workspace UI, you can interact with Azure Databricks programm
 
 ## Optional Learning Modules
 
-<div align="right"><a href="#microsoft-purview-workshop">↥ back to top</a></div>
+
