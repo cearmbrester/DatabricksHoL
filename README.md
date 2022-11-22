@@ -31,6 +31,7 @@ In addition to the workspace UI, you can interact with Azure Databricks programm
 * You must have the necessary privileges within your Azure subscription to create resources, perform role assignments, register resource providers (if required), etc.
 
 ## Lab Environment Setup
+* [Lab Environment](./Modules/Module00.md)
 
 ## Preface
 
